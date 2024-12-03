@@ -1,4 +1,4 @@
-Base de datos siyeca en xampp
+Base de datos siyeca en xampp,.
 ![image](https://github.com/user-attachments/assets/7435af35-9c74-4494-883b-c61bd1bef2a2)
 
 Base de datos usuarios en xampp
