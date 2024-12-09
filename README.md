@@ -14,7 +14,8 @@ Empleados tabla
 Formulario de alta
 ![image](https://github.com/user-attachments/assets/cf32d96e-5f79-4568-b5d3-236a32d9502e)
 
-
+FALTA
+INCOMPLETO
 
 
 
